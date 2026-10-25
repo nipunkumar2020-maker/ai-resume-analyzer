@@ -1,0 +1,5 @@
+pdfplumber
+scikit-learn
+streamlit
+openai
+reportlab

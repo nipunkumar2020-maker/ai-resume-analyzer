@@ -1,0 +1,15 @@
+We are hiring a Data Scientist.
+
+Responsibilities:
+- Build and deploy machine learning models to solve business problems
+- Analyze large datasets using Python, SQL and Pandas
+- Create dashboards and reports using Power BI or Tableau
+- Work with deep learning frameworks such as TensorFlow or PyTorch
+- Collaborate with engineering teams and deploy models using Docker and AWS
+
+Requirements:
+- Bachelor's degree in Computer Science, Data Science or related field
+- Strong knowledge of Python, SQL, Scikit-learn, NumPy and Matplotlib
+- Experience with NLP, feature engineering and model evaluation
+- Familiarity with Git, Docker, AWS and Spark
+- Good communication skills and ability to explain results to non-technical teams

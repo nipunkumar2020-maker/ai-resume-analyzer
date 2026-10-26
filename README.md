@@ -62,8 +62,8 @@ Classic NLP produces the numeric scores, which are the same every time. The LLM 
 **1. Clone the project and create a virtual environment**
 
 ```bash
-git clone https://github.com/nipunkumar2020-maker/<your-repo>.git
-cd <your-repo>
+git clone https://github.com/nipun-kumar2020-maker/ai-resume-analyzer.git
+cd ai-resume-analyzer
 python -m venv venv
 venv\Scripts\activate          # Windows
 # source venv/bin/activate     # Mac / Linux

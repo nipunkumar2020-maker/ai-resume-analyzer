@@ -12,7 +12,7 @@ Built with Python, Streamlit, scikit-learn and an LLM API.
 
 
 ### Improved Resume
-![ATS Check tab](screenshots/ats.png)
+![Improved Resume](screenshots/improved resume.png)
 
 ## Features
 

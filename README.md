@@ -7,6 +7,13 @@ Built with Python, Streamlit, scikit-learn and an LLM API.
  
  ![Overview tab](screenshots/overview.png) 
 
+ 
+
+
+
+### ATS Check
+![ATS Check tab](screenshots/ats.png)
+
 ## Features
 
 - **Resume parsing**: extracts text from PDF resumes.

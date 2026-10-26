@@ -11,7 +11,7 @@ Built with Python, Streamlit, scikit-learn and an LLM API.
 
 
 
-### ATS Check
+### Improved Resume
 ![ATS Check tab](screenshots/ats.png)
 
 ## Features
